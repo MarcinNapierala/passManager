@@ -8,7 +8,7 @@ public class Colors {
     public static final String MAIN_GREY = "#334257";
     public static final String LIGHT_Grey = "#d8e3e7";
 
-    public static String setBackgroundCOlor(String color){
+    public static String setBackgroundColor(String color){
         return "fx-background-color: " + color + "; ";
     }
     public static String setTextColor (String color) {
